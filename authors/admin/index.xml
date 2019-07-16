@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammad Umair Hassan</title>
+    <link>mumairhassan.github.io/authors/admin/</link>
+    <description>Recent content on Muhammad Umair Hassan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>The copyrights are reserved.</copyright>
+    
+	    <atom:link href="mumairhassan.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>mumairhassan.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mumairhassan.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Muhammad Umair Hassan is a master degree student at University of Jinan, China. He completed his bachelor in computer science from the University of the Punjab, Pakistan. He is working as a research assistant in Shandong Provincial Key Laboratory of Network Based Intelligent Computing, University of Jinan, China. His research interests include Machine Learning, Computer Vision, Deep Learning, and Image Retrieval. He has previously worked in Computer Networking, Cloud Computing and Natural Language Processing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
