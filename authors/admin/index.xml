@@ -7,10 +7,32 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>The copyrights are reserved.</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="mumairhassan.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Framework for the Revision of Large-Scale Image Retrieval Benchmarks</title>
+      <link>mumairhassan.github.io/publication/conference-paper/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>mumairhassan.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>
@@ -53,7 +75,7 @@
     <item>
       <title></title>
       <link>mumairhassan.github.io/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
       
       <guid>mumairhassan.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Muhammad Umair Hassan is a master degree student at University of Jinan, China. He completed his bachelor in computer science from the University of the Punjab, Pakistan. He is working as a research assistant in Shandong Provincial Key Laboratory of Network Based Intelligent Computing, University of Jinan, China. His research interests include Machine Learning, Computer Vision, Deep Learning, and Image Retrieval. He has previously worked in Computer Networking, Cloud Computing and Natural Language Processing.&lt;/p&gt;
